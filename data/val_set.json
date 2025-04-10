@@ -1,0 +1,212 @@
+[
+  {
+    "id": 43,
+    "version_1": "Alle bygg skal ha pipe i naturstein eller pusset mur.",
+    "version_2": "Alle bygg skal ha pipe i naturstein, pusset mur eller metall tilpasset byggets uttrykk.",
+    "ref_summary": "Tillatte materialer for pipe er utvidet til også å omfatte metall."
+  },
+  {
+    "id": 46,
+    "version_1": "Innkjøring til området skal skje via adkomst fra sør.",
+    "version_2": "Innkjøring til området kan skje både fra sør og øst.",
+    "ref_summary": "Adkomstmuligheter er utvidet til å inkludere innkjøring fra øst."
+  },
+  {
+    "id": 31,
+    "version_1": "Det skal vurderes behov for gjerde rundt lekeområdet for å sikre barn mot trafikk.",
+    "version_2": "Det skal settes opp gjerde rundt hele lekeområdet for å sikre barn mot trafikk.",
+    "ref_summary": "Vurdering av behov for gjerde er endret til et krav om at gjerde skal settes opp."
+  },
+  {
+    "id": 25,
+    "version_1": "Parkeringsplasser skal være belagt med asfalt.",
+    "version_2": "Parkeringsplasser skal være belagt med enten asfalt, grus eller betongstein.",
+    "ref_summary": "Kravet om asfalt er endret slik at også grus og betongstein tillates som dekke på parkeringsplasser."
+  },
+  {
+    "id": 16,
+    "version_1": "Før igangsettingstillatelse (IG) kan gis for all bygging og anleggsvirksomhet innenfor hyttefeltet, skal det foreligge en plan for håndtering av støy i bygge- og anleggsfasen i samsvar med T-1442. ",
+    "version_2": "",
+    "ref_summary": "Kravet om plan for støyhåndtering i bygge- og anleggsfasen i samsvar med T-1442 er fjernet."
+  },
+  {
+    "id": 5,
+    "version_1": "Området skal benyttes til frittliggende fritidsboliger med tilhørende carport/garasje/bod/anneks eller lignende mindre tiltak.  ",
+    "version_2": "Området skal benyttes til frittliggende fritidsboliger med tilhørende carport/garasje/uthus eller lignende mindre tiltak.  ",
+    "ref_summary": "Bod og anneks er fjernet og erstattet med uthus."
+  },
+  {
+    "id": 21,
+    "version_1": "Det skal være tilgang til felles lekeareal på minimum 50 m² per boenhet.",
+    "version_2": "Det skal være tilgang til felles lekeareal på minimum 30 m² per boenhet.",
+    "ref_summary": "Kravet til minimum felles lekeareal per boenhet er redusert fra 50 m² til 30 m²."
+  },
+  {
+    "id": 23,
+    "version_1": "Bygg skal ikke overstige en mønehøyde på 7,5 meter.",
+    "version_2": "Bygg skal ikke overstige en mønehøyde på 8,5 meter.",
+    "ref_summary": "Tillatt mønehøyde er økt fra 7,5 meter til 8,5 meter."
+  },
+  {
+    "id": 22,
+    "version_1": "Belysning av fellesområder skal utformes slik at det ikke oppstår lysforurensning mot nærliggende naturområder.",
+    "version_2": "Belysning av fellesområder skal utformes i tråd med kommunens retningslinjer for utendørs belysning.",
+    "ref_summary": "Kravet om å unngå lysforurensning mot naturområder er erstattet med henvisning til kommunale retningslinjer."
+  },
+  {
+    "id": 37,
+    "version_1": "Avkjørsel skal ha siktlinjer i henhold til Statens vegvesens håndbok N100.",
+    "version_2": "Avkjørsel skal ha siktlinjer i henhold til kommunale retningslinjer.",
+    "ref_summary": "Henvisningen til Statens vegvesens håndbok N100 er erstattet med kommunale retningslinjer."
+  },
+  {
+    "id": 36,
+    "version_1": "Tomtene skal ha vannbåren oppvarming tilknyttet felles varmesentral.",
+    "version_2": "Tomtene kan benytte alternativ miljøvennlig oppvarming, som varmepumpe eller solenergi.",
+    "ref_summary": "Kravet om vannbåren oppvarming fra felles varmesentral er erstattet med åpning for alternative miljøvennlige løsninger."
+  },
+  {
+    "id": 49,
+    "version_1": "Bygningene skal ha saltak med takvinkel mellom 30 og 40 grader.",
+    "version_2": "",
+    "ref_summary": "Bestemmelsen om tillatt takvinkel er fjernet."
+  },
+  {
+    "id": 34,
+    "version_1": "Bebyggelsen skal ha mørke jordfarger og matt overflate for å dempe visuell dominans i landskapet.",
+    "version_2": "Bebyggelsen skal ha naturlige og dempede fargetoner som harmonerer med omgivelsene.",
+    "ref_summary": "Kravet om mørke jordfarger og matt overflate er endret til mer generelle krav om naturlige og dempede fargetoner."
+  },
+  {
+    "id": 14,
+    "version_1": "5. Bestemmelser til bestemmelsesområder  5.1 Bestemmelser til bestemmelsesområde (område #1, #Masseutak) • Innenfor området tillates det uttak av masser.  • Anleggsarbeid skal ikke skje i påska (Skjærtorsdag - 2.påskedag), pinse (pinseaften 2.pinsedag), jul (Julaften - 2. juledag), nyttårshelg eller offentlige høytidsdager. • Driftstid skal avgrenses til 08.00-20.00, mandag - torsdag. • Ved støvplager skal det iverksetters avbøtende tiltak som for eksempel vanning, salting eller liknede • Uttaksområdet skal deles opp i etapper. Hver etappe skal ha en avslutningsplan. Ved opphør av utbygging over 2 år skal massetaket avsluttes og tiltakene i avslutningsplanen skal gjennomføres. ",
+    "version_2": "",
+    "ref_summary": "Hele bestemmelsen for bestemmelsesområde #1 Masseutak er fjernet, inkludert tillatelse til masseuttak, arbeidstidsbegrensninger, krav om avbøtende tiltak, etappevis uttak og avslutningsplan."
+  },
+  {
+    "id": 26,
+    "version_1": "Området skal ikke benyttes til næringsformål.",
+    "version_2": "Området kan benyttes til næringsformål som ikke medfører støy eller stor trafikk.",
+    "ref_summary": "Det er åpnet for visse typer næringsformål, med begrensning på støy og trafikk."
+  },
+  {
+    "id": 30,
+    "version_1": "Adkomstveier skal ha fast dekke.",
+    "version_2": "Adkomstveier kan ha fast dekke eller være gruset.",
+    "ref_summary": "Grus er tillat på adkomstveier. Det er ikke lenger krav om fast dekke."
+  },
+  {
+    "id": 47,
+    "version_1": "Det skal etableres lekeplass med minimumsareal på 150 m² sentralt i området.",
+    "version_2": "Det skal etableres lekeplass på minimum 100 m² innenfor planområdet.",
+    "ref_summary": "Kravet til lekeplassareal er redusert fra 150 m² til 100 m², og plasseringen er gjort mer fleksibel."
+  },
+  {
+    "id": 4,
+    "version_1": "",
+    "version_2": "Kommunen skal ved søknad om tillatelse til tiltak ha for øye at bebyggelsen får en god form og materialbehandling og at bygninger i samme gruppe får en harmonisk utforming. ",
+    "ref_summary": "Ny bestemmelse er tilføyd om at kommunen skal vurdere form, materialbehandling og harmonisk utforming ved søknad om tiltak."
+  },
+  {
+    "id": 38,
+    "version_1": "Det tillates ikke støttemurer høyere enn 1,0 meter uten særskilt godkjenning fra kommunen.",
+    "version_2": "Det tillates støttemurer opp til 1,5 meter uten særskilt godkjenning fra kommunen.",
+    "ref_summary": "Tillatt høyde på støttemurer uten særskilt godkjenning er økt fra 1,0 til 1,5 meter."
+  },
+  {
+    "id": 3,
+    "version_1": "Materialvalget skal være i tråd med den naturlige karakteren i området og bidra til å opprettholde en visuell sammenheng med naturen. Det skal brukes materialer som tre, stein, torv og andre naturlige elementer for fasader, taktekking og andre synlige konstruksjonsdetaljer. ",
+    "version_2": "Bebyggelsen skal plasseres slik at den faller naturlig inn i terrenget. Det skal benyttes materialer og farger som ikke skiller seg ut fra naturen på stedet. Materialvalg og fargebruk skal godkjennes av kommunen. ",
+    "ref_summary": "Bestemmelsen om materialvalg er utvidet til også å omfatte plassering av bebyggelse i terrenget og fargebruk. Kravet om konkrete naturmaterialer (som tre, stein og torv) er fjernet. Det er i stedet innført krav om at materialer og farger ikke skal skille seg ut fra naturen, samt at kommunen skal godkjenne både materialvalg og fargebruk."
+  },
+  {
+    "id": 10,
+    "version_1": "Skiløypetrase • Det skal opparbeides en skiløype i henhold til plankart. Mindre tilpasninger tillattes for å tilpasse seg terrenget. Tilpasninger skal ikke overstige +/- 2 meter fra den angitte plasseringen i plankartet • Eventuelle nødvendige terrengtilpasninger tillates for å sikre jevn og sikker skikjøring. • Skiløypen skal ha tilstrekkelig bredde og avstand fra eventuelle hindringer eller farlige områder for å unngå kollisjoner eller skader. ",
+    "version_2": "",
+    "ref_summary": "Hele bestemmelsen om skiløypetrase er fjernet, inkludert krav til plassering, tilpasninger, terrenginngrep og sikkerhetsavstand."
+  },
+  {
+    "id": 33,
+    "version_1": "Det tillates ikke lagring av campingvogner, båter eller lignende i fellesområder.",
+    "version_2": "Lagring av campingvogner og båter i fellesområder tillates i en avgrenset sesong mellom 1. mai og 1. oktober.",
+    "ref_summary": "Forbudet mot lagring i fellesområder er endret til å tillate sesongbasert lagring mellom 1. mai og 1. oktober."
+  },
+  {
+    "id": 2,
+    "version_1": "Innenfor planområdet tillates oppføring av boligbebyggelse med en maksimal byggehøyde på to etasjer, hvor det legges til grunn at bebyggelsen skal tilpasses omkringliggende struktur og terreng for å ivareta områdets visuelle og funksjonelle karakter.",
+    "version_2": "Innenfor planområdet tillates oppføring av boligbebyggelse med en maksimal byggehøyde på tre etasjer, hvor det legges til grunn at bebyggelsen skal tilpasses omkringliggende struktur og terreng for å ivareta områdets visuelle og funksjonelle karakter.",
+    "ref_summary": "Maksimal tillatt byggehøyde for boligbebyggelse er økt fra to til tre etasjer."
+  },
+  {
+    "id": 19,
+    "version_1": "Eksisterende veg til hytte på gbnr. 50/509 fjernes når det etableres ny veg til utbyggingsområdet. Ny veg til gbnr. 50/509 og gbnr. 50/593 skal opparbeides før den gamle kan fjernes. ",
+    "version_2": "",
+    "ref_summary": "Bestemmelsen om fjerning av eksisterende veg til gbnr. 50/509 og krav om opparbeidelse av ny veg til gbnr. 50/509 og 50/593 før fjerning er fjernet."
+  },
+  {
+    "id": 6,
+    "version_1": "Maks bebygd areal er 200 m2 BYA. 2 biloppstillingsplasser (18 m2 BYA pr. p-plass) pr. boenhet skal medregnes BYA. Det tillates maksimalt 3 bygg på eiendommen. Utforming av carport/garasje/bod/anneks skal tilpasse seg hovedformen på hytta. ",
+    "version_2": "Maks bebygd areal er 160 m2 BYA. 2 biloppstillingsplasser (18 m2 BYA pr. p-plass) pr. boenhet skal medregnes BYA.  ",
+    "ref_summary": "I beskrivelsen av tillatte tilhørende tiltak er bod og anneks erstattet med uthus."
+  },
+  {
+    "id": 20,
+    "version_1": "4.1. Frisikt I frisiktlinjen som er vist på plankartet skal det være fri sikt langs vei/kryss/avkjørsel 0,5 m over tilstøtende veibane. Busker, trær og annet som kan hindre sikten er ikke tillatt.",
+    "version_2": "4.1. Frisikt, H140 I frisiktsonene som er vist på plankartet skal det være fri sikt langs vei/kryss/avkjørsel 0,5 m over tilstøtende veibane. Busker, trær og annet som kan hindre sikten er ikke tillatt.",
+    "ref_summary": "Frisiktlinjen er endret til frisiktsonene, og henvisningen H140 er lagt til i overskriften."
+  },
+  {
+    "id": 17,
+    "version_1": "Før igangsetting av anleggsarbeider med masseuttak skal det foreligge en plan for hvor lenge arbeide skal pågå. Planen skal inneholde en oversikt over arbeidstider og hvordan det er planlagt å overvåke støynivået. Naboer skal informeres om anleggsarbeidene minst 14 dager før oppstart. Informasjonen skal inneholde detaljer om arbeidet, forventet varighet, og de mest støyende tidspunktene. ",
+    "version_2": "",
+    "ref_summary": "Bestemmelsen om krav til plan for varighet, arbeidstider, støyovervåking og nabovarsling før masseuttak er fjernet."
+  },
+  {
+    "id": 35,
+    "version_1": "Innenfor planområdet skal det være minimum 1 gjesteparkeringsplass per fire boenheter.",
+    "version_2": "Innenfor planområdet skal det være minimum 1 gjesteparkeringsplass per seks boenheter.",
+    "ref_summary": "Kravet til antall gjesteparkeringsplasser er redusert fra én per fire til én per seks boenheter."
+  },
+  {
+    "id": 11,
+    "version_1": "Område skal benyttes til snøopplag, veg-utslag, vendehammer, grøfter, kabel/va-grøfter, avkjørsler til tomter.  ",
+    "version_2": "Område skal benyttes til veg-utslag, grøfter, kabel/va-grøfter, avkjørsler til tomter. ",
+    "ref_summary": "Snøopplag og vendehammer er fjernet fra beskrivelsen av tillatt bruk i området."
+  },
+  {
+    "id": 27,
+    "version_1": "Det tillates maks én boenhet per tomt.",
+    "version_2": "Det tillates inntil to boenheter per tomt.",
+    "ref_summary": "Tillatt antall boenheter per tomt er økt fra én til to."
+  },
+  {
+    "id": 24,
+    "version_1": "Alle nye bygg skal ha takvinkel mellom 25 og 40 grader.",
+    "version_2": "Alle nye bygg skal ha takvinkel mellom 22 og 38 grader.",
+    "ref_summary": "Tillatt takvinkel er justert fra mellom 25 og 40 grader til mellom 22 og 38 grader."
+  },
+  {
+    "id": 39,
+    "version_1": "Innenfor området skal det etableres grønne tak på alle bygninger over 100 m².",
+    "version_2": "",
+    "ref_summary": "Bestemmelsen om obligatoriske grønne tak på bygg over 100 m² er fjernet."
+  },
+  {
+    "id": 29,
+    "version_1": "Tomtegrenser skal markeres med gjerde eller annen tydelig avgrensning.",
+    "version_2": "Tomtegrenser skal markeres med vegetasjon eller annen diskret løsning.",
+    "ref_summary": "Kravet om gjerde eller annen tydelig avgrensning er erstattet med krav om vegetasjon eller annen diskret løsning."
+  },
+  {
+    "id": 42,
+    "version_1": "Private uteområder skal avgrenses med hekk eller beplantning.",
+    "version_2": "Private uteområder kan avgrenses med hekk, beplantning eller lave gjerder.",
+    "ref_summary": "Avgrensning med hekk er supplert med tillatelse for lave gjerder."
+  },
+  {
+    "id": 1,
+    "version_1": "Opparbeiding av tomter utenfor byggegrense skal foregå så skånsomt som mulig. Trær og busker skal så langt det er mulig bevares. Terrengskader skal jordklees og tilsåes, eller tilplantes. Stedegen vegetasjon skal benyttes. ",
+    "version_2": "Opparbeiding av tomter skal foregå så skånsomt som mulig. Trær og busker skal så langt det er mulig bevares. Terrengskader skal jordklees og tilsåes, eller tilplantes. Stedegen vegetasjon skal benyttes. ",
+    "ref_summary": "Kravet om at opparbeiding kun gjelder tomter utenfor byggegrense er fjernet."
+  }
+]
