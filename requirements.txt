@@ -1,0 +1,9 @@
+torch
+torchmetrics
+transformers
+scikit-learn
+langchain
+langchain-openai
+sentencepiece
+accelerate
+deap
