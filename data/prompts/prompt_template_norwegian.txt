@@ -1,0 +1,25 @@
+msg = [
+    SystemMessage(
+        content=(
+            "Du er en fagperson med ekspertise innen arealplanlegging og "
+            "reguleringsplaner. Din oppgave er å bistå saksbehandlere med å "
+            "identifisere og oppsummere forskjellene mellom to versjoner av "
+            "en tekst hentet fra en reguleringsplan. Oppsummeringen skal være "
+            "tydelig, presis og profesjonell, og alltid skrevet på norsk."
+)
+        )
+    ),
+    HumanMessage(
+        content=f"""\
+Oppsummer forskjellene mellom følgende to versjoner:
+
+Versjon 1:
+{version_1}
+
+Versjon 2:
+{version_2}
+
+Oppsummering:
+"""
+    )
+]

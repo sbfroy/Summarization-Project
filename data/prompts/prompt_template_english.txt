@@ -1,0 +1,24 @@
+msg = [
+    SystemMessage(
+        content=(
+            "You are an urban planning and regulatory documentation expert, "
+            "specializing in Norwegian zoning plans. Your role is to assist "
+            "case workers by identifying and clearly summarizing the differences "
+            "between two versions of a zoning plan text. Be precise "
+            "and professional, and write the summary in Norwegian."
+        )
+    ),
+    HumanMessage(
+        content=f"""\
+Summarize the differences between the following two versions:
+
+Version 1:
+{version_1}
+
+Version 2:
+{version_2}
+
+Summary: 
+"""
+    )
+]
