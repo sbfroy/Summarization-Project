@@ -2,7 +2,6 @@ from pathlib import Path
 import os 
 import json
 from rouge_score import rouge_scorer
-import sacrebleu
 
 def load_results(jsonl_path):
     results = []
@@ -27,31 +26,24 @@ def evaluate_summaries(results):
 
     rouge_scores = {k: v / len(predictions) for k, v in total_scores.items()}
 
-    # BLEU
-    bleu = sacrebleu.corpus_bleu(predictions, [references])
-    bleu_score = bleu.score
-
-    return rouge_scores, {'bleu': bleu_score}
+    return rouge_scores
 
 
 if __name__ == "__main__":
 
     base_dir = Path(os.getcwd())
-    file_name = "gpt-4o-mini_ZEROSHOT_test_5_NOR.jsonl"
+    file_name = "gpt-4o-mini_ZEROSHOT.jsonl"
     jsonl_path = base_dir / 'results' / file_name
 
     results = load_results(jsonl_path)
 
-    rouge_scores, bleu_scores = evaluate_summaries(results)
+    rouge_scores = evaluate_summaries(results)
 
-    scores_path = base_dir / 'results' / file_name.replace('.jsonl', '_scores.json')
+    scores_path = base_dir / 'results' / file_name.replace('.jsonl', '_ROUGE_SCORES.json')
 
     """with open(scores_path, 'w', encoding='utf-8') as f:
-        json.dump({'rouge': rouge_scores, 'bleu': bleu_scores}, f, indent=4)"""
+        json.dump({'rouge': rouge_scores}, f, indent=4)"""
 
     print('ROUGE Scores:')
     for key, value in rouge_scores.items():
         print(f'{key}: {value:.4f}')
-
-    print('\n BLEU Score:')
-    print(f"BLEU: {bleu_scores['bleu']:.4f}")
