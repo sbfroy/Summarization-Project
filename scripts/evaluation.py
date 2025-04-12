@@ -5,7 +5,6 @@ from rouge_score import rouge_scorer
 import sacrebleu
 
 def load_results(jsonl_path):
-    # Load the JSONL file
     results = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
@@ -13,7 +12,6 @@ def load_results(jsonl_path):
     return results
 
 def evaluate_summaries(results):
-    # Calculate ROUGE and BLEU scores for the summaries
 
     predictions = [r['model_summary'] for r in results]
     references = [r['ref_summary'] for r in results]
@@ -39,7 +37,7 @@ def evaluate_summaries(results):
 if __name__ == "__main__":
 
     base_dir = Path(os.getcwd())
-    file_name = "gpt-4_SHOT.jsonl"
+    file_name = "gpt-4o-mini_ZEROSHOT_test_5_NOR.jsonl"
     jsonl_path = base_dir / 'results' / file_name
 
     results = load_results(jsonl_path)
@@ -47,8 +45,9 @@ if __name__ == "__main__":
     rouge_scores, bleu_scores = evaluate_summaries(results)
 
     scores_path = base_dir / 'results' / file_name.replace('.jsonl', '_scores.json')
-    with open(scores_path, 'w', encoding='utf-8') as f:
-        json.dump({'rouge': rouge_scores, 'bleu': bleu_scores}, f, indent=4)
+
+    """with open(scores_path, 'w', encoding='utf-8') as f:
+        json.dump({'rouge': rouge_scores, 'bleu': bleu_scores}, f, indent=4)"""
 
     print('ROUGE Scores:')
     for key, value in rouge_scores.items():
