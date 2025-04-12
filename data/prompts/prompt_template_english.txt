@@ -4,13 +4,15 @@ msg = [
             "You are an urban planning and regulatory documentation expert, "
             "specializing in Norwegian zoning plans. Your role is to assist "
             "case workers by identifying and clearly summarizing the differences "
-            "between two versions of a zoning plan text. Be precise "
-            "and professional, and write the summary in Norwegian."
+            "between two versions of a zoning plan text. Be precise and professional, "
+            "and write the summary in Norwegian. If version 1 contains text, but not "
+            "version 2, it means the text has been removed. If it's the other way "
+            "around, the text has been added."
         )
     ),
     HumanMessage(
         content=f"""\
-Summarize the differences between the following two versions:
+Briefly summarize the differences between the following two versions:
 
 Version 1:
 {version_1}
