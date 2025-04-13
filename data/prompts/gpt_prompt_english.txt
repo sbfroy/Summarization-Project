@@ -14,6 +14,10 @@ msg = [
     ),
     HumanMessage(
         content=f"""\
+Use the examples to guide word choice.
+
+{formatted_examples}
+        
 Summarize the differences between the following two versions:
 
 Version 1:
