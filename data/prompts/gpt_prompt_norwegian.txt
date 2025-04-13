@@ -14,6 +14,10 @@ msg = [
     ),
     HumanMessage(
         content=f"""\
+Bruk eksemplene som hjelp til å velge riktig ord.
+
+{formatted_examples}
+               
 Oppsummer forskjellene mellom følgende to versjoner:
 
 Versjon 1:
