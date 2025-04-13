@@ -2,3 +2,4 @@
 *.md
 secrets.yaml
 *.jsonl
+*.json
