@@ -28,22 +28,21 @@ def evaluate_summaries(results):
 
     return rouge_scores
 
+base_dir = Path(os.getcwd())
 
-if __name__ == "__main__":
+model_name = 'o1-mini'
 
-    base_dir = Path(os.getcwd())
-    file_name = "gpt-4o-mini_ZEROSHOT.jsonl"
-    jsonl_path = base_dir / 'results' / file_name
+file_name = f'{model_name}_NOR_ONESHOT.jsonl'
+jsonl_path = base_dir / 'results' / f'{model_name}' / file_name
 
-    results = load_results(jsonl_path)
+results = load_results(jsonl_path)
+rouge_scores = evaluate_summaries(results)
 
-    rouge_scores = evaluate_summaries(results)
+scores_path = base_dir / 'results' / f'{model_name}' / file_name.replace('.jsonl', '_ROUGES.json')
 
-    scores_path = base_dir / 'results' / file_name.replace('.jsonl', '_ROUGE_SCORES.json')
+with open(scores_path, 'w', encoding='utf-8') as f:
+    json.dump({'rouge': rouge_scores}, f, indent=4)
 
-    """with open(scores_path, 'w', encoding='utf-8') as f:
-        json.dump({'rouge': rouge_scores}, f, indent=4)"""
-
-    print('ROUGE Scores:')
-    for key, value in rouge_scores.items():
-        print(f'{key}: {value:.4f}')
+print('ROUGE Scores:')
+for key, value in rouge_scores.items():
+    print(f'{key}: {value:.4f}')
