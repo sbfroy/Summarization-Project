@@ -1,92 +1,92 @@
 [
-  {
-    "id": 41,
-    "version_1": "Det skal etableres minimum én sitteplass med benk for hver 10. boenhet innenfor felles uteoppholdsarealer.",
-    "version_2": "Det anbefales å etablere sitteplasser med benk i felles uteoppholdsarealer.",
-    "ref_summary": "Kravet om én sitteplass per 10 boenheter er erstattet med en anbefaling."
-  },
-  {
-    "id": 0,
-    "version_1": "Totalt vil det etter planendringen være 57 tomter i byggetrinn 2, i tillegg til de 18 tomtene i byggetrinn 1 og 6 eksisterende eldre fritidsboliger, som gir et totalt antall boenheter på området på 81.",
-    "version_2": "Totalt vil det etter planendringen være 62 tomter i byggetrinn 2, i tillegg til de 18 tomtene i byggetrinn 1 og 6 eksisterende eldre fritidsboliger, som gir et totalt antall boenheter på området på 86.",
-    "ref_summary": "Antall tomter i byggetrinn 2 er økt fra 57 til 62, noe som øker det totale antallet boenheter fra 81 til 86."
-  },
-  {
-    "id": 44,
-    "version_1": "Det skal være minst 4 meter avstand mellom bygg på ulike tomter.",
-    "version_2": "Det skal være minst 3 meter avstand mellom bygg på ulike tomter.",
-    "ref_summary": "Avstandskrav mellom bygg på ulike tomter er redusert fra 4 til 3 meter."
-  },
-  {
-    "id": 9,
-    "version_1": "Planeringshøyden for tomtene er angitt i plankartet. Mindre tilpasninger kan gjøres for å tilpasse seg terrenget og ta hensyn til eventuelle unøyaktigheter i høydegrunnlaget, men slike tilpasninger skal ikke overstige +/- 0,5 meter fra den angitte planeringshøyden i plankartet  ",
-    "version_2": "Ved opparbeidelse av nye tomter skal den angitte planeringshøyden i plankartet følges så langt som mulig. Det tillates en generell usikkerhet på +/- 0,5 meter fra denne angitte planeringshøyden. Mindre tilpasninger kan gjøres for å tilpasse seg terrenget og ta hensyn til eventuelle unøyaktigheter i høydegrunnlaget, men slike tilpasninger skal ikke overstige +/- 0,5 meter fra den angitte planeringshøyden i plankartet. ",
-    "ref_summary": "Tilføyd presisering om at planeringshøyde skal følges så langt som mulig ved opparbeidelse. Det er også lagt til en generell usikkerhet på +/- 0,5 meter."
-  },
-  {
-    "id": 13,
-    "version_1": "Turdrag: • Område for turdrag (også kalt sommerløype i området) er til fri ferdsel for allmenheten. • I området kan det foretas en enkel opparbeidelse og planering av terrenget til turstier.  • Vegetasjonen i området kan tynnes. Det tillates nedgraving av VA og el-kabler i område for grønnstruktur, der dette ikke naturlig kan følge veg og eksisterende infrastruktur.  • Det tillates ingen tiltak i området som ikke forenlig med formålet. ",
-    "version_2": "",
-    "ref_summary": "Hele bestemmelsen om turdrag er fjernet, inkludert bestemmelser om ferdsel, opparbeidelse, vegetasjon, teknisk infrastruktur og forbud mot uforenlige tiltak."
-  },
-  {
-    "id": 28,
-    "version_1": "Det tillates ikke kjeller under bebyggelsen.",
-    "version_2": "Det tillates kjeller under bebyggelsen dersom denne ikke er synlig over terreng.",
-    "ref_summary": "Forbudet mot kjeller er erstattet med en begrenset tillatelse dersom kjelleren ikke er synlig over terreng."
-  },
-  {
-    "id": 48,
-    "version_1": "Alle bebyggbare tomter skal ha direkte atkomst fra offentlig veg.",
-    "version_2": "Alle bebyggbare tomter skal ha tilfredsstillende atkomst, enten direkte fra offentlig veg eller via privat fellesveg.",
-    "ref_summary": "Kravet om direkte atkomst fra offentlig veg er erstattet med åpning for privat fellesveg."
-  },
-  {
-    "id": 40,
-    "version_1": "Ferdsel med motorkjøretøy i området er forbudt med unntak av nødvendig kjøring til eiendom.",
-    "version_2": "Ferdsel med motorkjøretøy i området skal begrenses, men tillates for varelevering, renovasjon og vedlikehold.",
-    "ref_summary": "Forbudet mot ferdsel med motorkjøretøy er endret til å tillate begrenset kjøring for varelevering, renovasjon og vedlikehold."
-  },
-  {
-    "id": 7,
-    "version_1": "Maksimale størrelse: o Bod/anneks skal ikke være større enn 25 m2 BYA.  o Frittliggende garasje/carport: 50 m2 BYA ",
-    "version_2": "Boder skal ikke være større enn 15 m2 BYA. Utforming av uthus/bod/carport skal tilpasse seg hovedformen på hytta. ",
-    "ref_summary": "Maksimal størrelse for bod er redusert fra 25 m² til 15 m² BYA. Krav om tilpasning til hovedform på hytta er tilføyd. Bestemmelse om garasje/carport er fjernet."
-  },
-  {
-    "id": 18,
-    "version_1": "Før igangsetting av nye tiltak skal det være utarbeidet en felles VA plan for hele utbyggingsområdet. ",
-    "version_2": "",
-    "ref_summary": "Kravet om felles VA plan for hele utbyggingsområdet før igangsetting av nye tiltak er fjernet."
-  },
-  {
-    "id": 8,
-    "version_1": "Det tillates kun 1 avkjørsel pr. tomt. ",
-    "version_2": "",
-    "ref_summary": "Bestemmelsen om at det kun tillates 1 avkjørsel pr. tomt er fjernet."
-  },
-  {
-    "id": 32,
-    "version_1": "Innenfor byggegrensen kan det oppføres fritidsbebyggelse i én etasje med saltak og maksimal mønehøyde på 5,5 meter.",
-    "version_2": "Innenfor byggegrensen kan det oppføres fritidsbebyggelse i én etasje med valgfri takform og maksimal mønehøyde på 6,0 meter.",
-    "ref_summary": "Kravet om saltak er fjernet og maksimal mønehøyde er økt fra 5,5 meter til 6,0 meter."
-  },
-  {
-    "id": 15,
-    "version_1": "Før igangsetting av anleggsarbeidene skal det utarbeides en teknisk plan for gjennomføringen av tiltaket. Denne planen skal godkjennes av kommunen før arbeidene starter. Teknisk plan skal inneholde en beskrivelse av de tekniske løsningene som skal benyttes, herunder blant annet vann- og avløpsløsninger, brannvann og overvannshåndtering. ",
-    "version_2": "Før igangsetting av anleggsarbeidene skal det utarbeides en teknisk plan for gjennomføringen av tiltaket. Denne planen skal godkjennes av kommunen før arbeidene starter. Teknisk plan skal inneholde en beskrivelse av de tekniske løsningene som skal benyttes, herunder blant annet vann- og avløpsløsninger og overvannshåndtering. ",
-    "ref_summary": "Brannvann er fjernet fra kravene til innhold i teknisk plan."
-  },
-  {
-    "id": 45,
-    "version_1": "Overvann skal håndteres lokalt med fordrøyning og infiltrasjon på egen tomt.",
-    "version_2": "Overvann skal håndteres etter kommunens tekniske retningslinjer.",
-    "ref_summary": "Krav om lokal håndtering av overvann er erstattet med henvisning til kommunale retningslinjer."
-  },
-  {
-    "id": 12,
-    "version_1": "I området kan det foretas en enkel opparbeidelse og planering av terrenget til turstier.  ",
-    "version_2": "I området kan det foretas en enkel opparbeidelse og planering av terrenget til skiløyper og turstier.",
-    "ref_summary": "Skiløyper er lagt til i bestemmelsen om enkel opparbeidelse og planering av terreng."
-  }
+    {
+        "id": 3,
+        "version_1": "Materialvalget skal være i tråd med den naturlige karakteren i området og bidra til å opprettholde en visuell sammenheng med naturen. Det skal brukes materialer som tre, stein, torv og andre naturlige elementer for fasader, taktekking og andre synlige konstruksjonsdetaljer. ",
+        "version_2": "Bebyggelsen skal plasseres slik at den faller naturlig inn i terrenget. Det skal benyttes materialer og farger som ikke skiller seg ut fra naturen på stedet. Materialvalg og fargebruk skal godkjennes av kommunen. ",
+        "ref_summary": "Bestemmelsen om materialvalg omfatter nå også plassering og fargebruk. Krav om konkrete naturmaterialer er fjernet, og kommunen skal godkjenne materialvalg og farger."
+    },
+    {
+        "id": 6,
+        "version_1": "Maks bebygd areal er 200 m2 BYA. 2 biloppstillingsplasser (18 m2 BYA pr. p-plass) pr. boenhet skal medregnes BYA. Det tillates maksimalt 3 bygg på eiendommen. Utforming av carport/garasje/bod/anneks skal tilpasse seg hovedformen på hytta. ",
+        "version_2": "Maks bebygd areal er 160 m2 BYA. 2 biloppstillingsplasser (18 m2 BYA pr. p-plass) pr. boenhet skal medregnes BYA.  ",
+        "ref_summary": "I beskrivelsen av tillatte tilhørende tiltak er bod og anneks erstattet med uthus."
+    },
+    {
+        "id": 35,
+        "version_1": "Innenfor planområdet skal det være minimum 1 gjesteparkeringsplass per fire boenheter.",
+        "version_2": "Innenfor planområdet skal det være minimum 1 gjesteparkeringsplass per seks boenheter.",
+        "ref_summary": "Kravet til antall gjesteparkeringsplasser er redusert fra en per fire til en per seks boenheter."
+    },
+    {
+        "id": 0,
+        "version_1": "Totalt vil det etter planendringen være 57 tomter i byggetrinn 2, i tillegg til de 18 tomtene i byggetrinn 1 og 6 eksisterende eldre fritidsboliger, som gir et totalt antall boenheter på området på 81.",
+        "version_2": "Totalt vil det etter planendringen være 62 tomter i byggetrinn 2, i tillegg til de 18 tomtene i byggetrinn 1 og 6 eksisterende eldre fritidsboliger, som gir et totalt antall boenheter på området på 86.",
+        "ref_summary": "Antall tomter i byggetrinn 2 er økt fra 57 til 62, noe som øker det totale antallet boenheter fra 81 til 86."
+    },
+    {
+        "id": 43,
+        "version_1": "Alle bygg skal ha pipe i naturstein eller pusset mur.",
+        "version_2": "Alle bygg skal ha pipe i naturstein, pusset mur eller metall tilpasset byggets uttrykk.",
+        "ref_summary": "Tillatte materialer for pipe er utvidet til også å omfatte metall."
+    },
+    {
+        "id": 40,
+        "version_1": "Ferdsel med motorkjøretøy i området er forbudt med unntak av nødvendig kjøring til eiendom.",
+        "version_2": "Ferdsel med motorkjøretøy i området skal begrenses, men tillates for varelevering, renovasjon og vedlikehold.",
+        "ref_summary": "Forbudet mot ferdsel med motorkjøretøy er endret til å tillate begrenset kjøring for varelevering, renovasjon og vedlikehold."
+    },
+    {
+        "id": 2,
+        "version_1": "Innenfor planområdet tillates oppføring av boligbebyggelse med en maksimal byggehøyde på to etasjer, hvor det legges til grunn at bebyggelsen skal tilpasses omkringliggende struktur og terreng for å ivareta områdets visuelle og funksjonelle karakter.",
+        "version_2": "Innenfor planområdet tillates oppføring av boligbebyggelse med en maksimal byggehøyde på tre etasjer, hvor det legges til grunn at bebyggelsen skal tilpasses omkringliggende struktur og terreng for å ivareta områdets visuelle og funksjonelle karakter.",
+        "ref_summary": "Maksimal tillatt byggehøyde for boligbebyggelse er økt fra to til tre etasjer."
+    },
+    {
+        "id": 38,
+        "version_1": "Det tillates ikke støttemurer høyere enn 1,0 meter uten særskilt godkjenning fra kommunen.",
+        "version_2": "Det tillates støttemurer opp til 1,5 meter uten særskilt godkjenning fra kommunen.",
+        "ref_summary": "Tillatt høyde på støttemurer uten særskilt godkjenning er økt fra 1,0 til 1,5 meter."
+    },
+    {
+        "id": 5,
+        "version_1": "Området skal benyttes til frittliggende fritidsboliger med tilhørende carport/garasje/bod/anneks eller lignende mindre tiltak.  ",
+        "version_2": "Området skal benyttes til frittliggende fritidsboliger med tilhørende carport/garasje/uthus eller lignende mindre tiltak.  ",
+        "ref_summary": "Bod og anneks er fjernet og erstattet med uthus."
+    },
+    {
+        "id": 26,
+        "version_1": "Området skal ikke benyttes til næringsformål.",
+        "version_2": "Området kan benyttes til næringsformål som ikke medfører støy eller stor trafikk.",
+        "ref_summary": "Det er åpnet for visse typer næringsformål, med begrensning på støy og trafikk."
+    },
+    {
+        "id": 36,
+        "version_1": "Tomtene skal ha vannbåren oppvarming tilknyttet felles varmesentral.",
+        "version_2": "Tomtene kan benytte alternativ miljøvennlig oppvarming, som varmepumpe eller solenergi.",
+        "ref_summary": "Kravet om vannbåren oppvarming fra felles varmesentral er erstattet med åpning for alternative miljøvennlige løsninger."
+    },
+    {
+        "id": 7,
+        "version_1": "Maksimale størrelse: o Bod/anneks skal ikke være større enn 25 m2 BYA.  o Frittliggende garasje/carport: 50 m2 BYA ",
+        "version_2": "Boder skal ikke være større enn 15 m2 BYA. Utforming av uthus/bod/carport skal tilpasse seg hovedformen på hytta. ",
+        "ref_summary": "Maksimal størrelse for bod er redusert fra 25 m² til 15 m² BYA. Krav om tilpasning til hovedform på hytta er tilføyd. Bestemmelse om garasje/carport er fjernet."
+    },
+    {
+        "id": 49,
+        "version_1": "Bygningene skal ha saltak med takvinkel mellom 30 og 40 grader.",
+        "version_2": "",
+        "ref_summary": "Bestemmelsen om tillatt takvinkel er fjernet."
+    },
+    {
+        "id": 8,
+        "version_1": "Det tillates kun 1 avkjørsel pr. tomt. ",
+        "version_2": "",
+        "ref_summary": "Bestemmelsen om at det kun tillates 1 avkjørsel pr. tomt er fjernet."
+    },
+    {
+        "id": 48,
+        "version_1": "Alle bebyggbare tomter skal ha direkte atkomst fra offentlig veg.",
+        "version_2": "Alle bebyggbare tomter skal ha tilfredsstillende atkomst, enten direkte fra offentlig veg eller via privat fellesveg.",
+        "ref_summary": "Kravet om direkte atkomst fra offentlig veg er erstattet med åpning for privat fellesveg."
+    }
 ]

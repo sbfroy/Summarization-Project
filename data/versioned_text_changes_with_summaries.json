@@ -21,13 +21,13 @@
     "id":3,
     "version_1":"Materialvalget skal være i tråd med den naturlige karakteren i området og bidra til å opprettholde en visuell sammenheng med naturen. Det skal brukes materialer som tre, stein, torv og andre naturlige elementer for fasader, taktekking og andre synlige konstruksjonsdetaljer. ",
     "version_2":"Bebyggelsen skal plasseres slik at den faller naturlig inn i terrenget. Det skal benyttes materialer og farger som ikke skiller seg ut fra naturen på stedet. Materialvalg og fargebruk skal godkjennes av kommunen. ",
-    "ref_summary":"Bestemmelsen om materialvalg er utvidet til også å omfatte plassering av bebyggelse i terrenget og fargebruk. Kravet om konkrete naturmaterialer (som tre, stein og torv) er fjernet. Det er i stedet innført krav om at materialer og farger ikke skal skille seg ut fra naturen, samt at kommunen skal godkjenne både materialvalg og fargebruk."
+    "ref_summary":"Bestemmelsen om materialvalg omfatter nå også plassering og fargebruk. Krav om konkrete naturmaterialer er fjernet, og kommunen skal godkjenne materialvalg og farger."
   },
   {
     "id":4,
     "version_1":"",
     "version_2":"Kommunen skal ved søknad om tillatelse til tiltak ha for øye at bebyggelsen får en god form og materialbehandling og at bygninger i samme gruppe får en harmonisk utforming. ",
-    "ref_summary":"Ny bestemmelse er tilføyd om at kommunen skal vurdere form, materialbehandling og harmonisk utforming ved søknad om tiltak."
+    "ref_summary":"En ny bestemmelse er lagt til om at kommunen skal vurdere form, materialbehandling og harmonisk utforming ved søknad om tiltak."
   },
   {
     "id":5,
@@ -63,7 +63,7 @@
     "id":10,
     "version_1":"Skiløypetrase • Det skal opparbeides en skiløype i henhold til plankart. Mindre tilpasninger tillattes for å tilpasse seg terrenget. Tilpasninger skal ikke overstige +/- 2 meter fra den angitte plasseringen i plankartet • Eventuelle nødvendige terrengtilpasninger tillates for å sikre jevn og sikker skikjøring. • Skiløypen skal ha tilstrekkelig bredde og avstand fra eventuelle hindringer eller farlige områder for å unngå kollisjoner eller skader. ",
     "version_2":"",
-    "ref_summary":"Hele bestemmelsen om skiløypetrase er fjernet, inkludert krav til plassering, tilpasninger, terrenginngrep og sikkerhetsavstand."
+    "ref_summary":"Hele skiløypetrase bestemmelsen er fjernet, inkludert krav til plassering, tilpasninger, terrenginngrep og sikkerhetsavstand."
   },
   {
     "id":11,
@@ -163,9 +163,9 @@
   },
   {
     "id": 27,
-    "version_1": "Det tillates maks én boenhet per tomt.",
+    "version_1": "Det tillates maks en boenhet per tomt.",
     "version_2": "Det tillates inntil to boenheter per tomt.",
-    "ref_summary": "Tillatt antall boenheter per tomt er økt fra én til to."
+    "ref_summary": "Tillatt antall boenheter per tomt er økt fra en til to."
   },
   {
     "id": 28,
@@ -213,7 +213,7 @@
     "id": 35,
     "version_1": "Innenfor planområdet skal det være minimum 1 gjesteparkeringsplass per fire boenheter.",
     "version_2": "Innenfor planområdet skal det være minimum 1 gjesteparkeringsplass per seks boenheter.",
-    "ref_summary": "Kravet til antall gjesteparkeringsplasser er redusert fra én per fire til én per seks boenheter."
+    "ref_summary": "Kravet til antall gjesteparkeringsplasser er redusert fra en per fire til en per seks boenheter."
   },
   {
     "id": 36,
@@ -247,15 +247,15 @@
   },
   {
     "id": 41,
-    "version_1": "Det skal etableres minimum én sitteplass med benk for hver 10. boenhet innenfor felles uteoppholdsarealer.",
+    "version_1": "Det skal etableres minimum en sitteplass med benk for hver 10. boenhet innenfor felles uteoppholdsarealer.",
     "version_2": "Det anbefales å etablere sitteplasser med benk i felles uteoppholdsarealer.",
-    "ref_summary": "Kravet om én sitteplass per 10 boenheter er erstattet med en anbefaling."
+    "ref_summary": "Kravet om en sitteplass per 10 boenheter er erstattet med en anbefaling."
   },
   {
     "id": 42,
     "version_1": "Private uteområder skal avgrenses med hekk eller beplantning.",
     "version_2": "Private uteområder kan avgrenses med hekk, beplantning eller lave gjerder.",
-    "ref_summary": "Avgrensning med hekk er supplert med tillatelse for lave gjerder."
+    "ref_summary": "Lave gjerder kan nå også avgrense private uteområder."
   },
   {
     "id": 43,
