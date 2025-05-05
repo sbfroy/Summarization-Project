@@ -55,7 +55,11 @@ def main():
 
         input_text = f"""\
     You are an urban planning and regulatory documentation expert, specializing in Norwegian zoning plans. Your role is to assist case workers by identifying and clearly summarizing the differences between two versions of a zoning plan text. The summary should be as brief as possible, yet clear and informative. Write full sentences, avoid unnecessary details, and summarize in Norwegian. If version 1 contains text, but not version 2, it means the text has been removed. If it's the other way around, the text has been added. Do not refer to version 1 or version 2 in the summary. Only describe what has been removed, added, or changed.
+    
+    Use the examples to guide word choice.
 
+    {formatted_examples}
+    
     Summarize the differences between the following two versions:
 
     Version 1:
@@ -77,7 +81,7 @@ def main():
             'model_summary': generated_text
         })
    
-    output_file = base_dir / f'results/{model_name}_ENG_ZEROSHOT.jsonl'
+    output_file = base_dir / f'results/{model_name}_ENG_FEWSHOT_3.jsonl'
     with open(output_file, 'w', encoding='utf-8') as f:
         for result in results:
             json.dump(result, f, ensure_ascii=False)
